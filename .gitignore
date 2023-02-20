@@ -1,0 +1,7 @@
+.vscode/
+obj/
+main.d
+museo.d
+obra.d
+sala.d
+myapp
